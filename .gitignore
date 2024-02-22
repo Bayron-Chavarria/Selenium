@@ -1,0 +1,2 @@
+# Ignorar archivos relacionados con el entorno virtual de Python
+venv/
