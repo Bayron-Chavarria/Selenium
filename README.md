@@ -15,6 +15,6 @@ Este proyecto consiste en una prueba de test automatizado en la página web de M
 - [Geckodriver](https://github.com/mozilla/geckodriver/releases) (para Firefox)
 
 ## Uso
-1. Ejecuta el script `mercado_libre.py`
+1. Ejecuta el script `mercadolibre.py`
 2. El script abrirá una instancia de Firefox y realizará la prueba automatizada en Mercado Libre.
 3. Crea un archivo 'producst.csv' con el listado de productos y precios de los mismos.
